@@ -50,7 +50,7 @@ $ mkdir -p /home/workspace/catkin_ws/src
 $ cd /home/workspace/catkin_ws/src
 $ catkin_init_workspace
 ```
-#### Clone or Download This Project Under the /home/workspace/catkin_ws
+#### Clone or Download This Project Under the `/home/workspace/catkin_ws`
 ```
 $ cd /home/workspace/catkin_ws
 $ rm -rf src
