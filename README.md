@@ -78,7 +78,6 @@ This can be done by launching the  `world.launch`  file:
 $ cd /home/workspace/catkin_ws/
 $ source devel/setup.bash
 $ roslaunch my_robot world.launch
-
 ```
 
 **2- Run   `drive_bot`  and  `process_image` (new terminal)**
