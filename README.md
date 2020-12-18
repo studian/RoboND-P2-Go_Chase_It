@@ -59,7 +59,7 @@ $ git clone https://github.com/studian/RoboND-P2-Go_Chase_It.git src
 
 ## Build Package
 
-Now that you’ve included specific instructions for your  `process_image.cpp`  code in  `CMakeLists.txt`, compile it with:
+Compile it with:
 
 ```
 $ cd /home/workspace/catkin_ws/
