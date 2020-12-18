@@ -34,9 +34,9 @@ Design a robot inside Gazebo, house it in the World &amp;  C++ Nodes in ROS to c
     │   ├── CMakeLists.txt             # compiler instructions
     │   └── package.xml                # package info                  
     └── Results                        # result images of robot running         
-    │   ├── 1.PNG                     
-    │   ├── 2.PNG                     
-    │   └── 3.PNG                     
+        ├── 1.PNG                     
+        ├── 2.PNG                     
+        └── 3.PNG                     
 ```
 
 
